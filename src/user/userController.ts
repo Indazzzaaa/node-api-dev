@@ -3,7 +3,7 @@ import IUser from "./types.User";
 
 let users: IUser[] = [
   {
-    emailId: "user@email.com",
+    emailID: "user@email.com",
     username: "user_with_name",
     password: "user_with_hashed_pass",
     isVerified: false,

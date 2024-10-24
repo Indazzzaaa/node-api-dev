@@ -1,5 +1,5 @@
 export default interface IUser {
-  emailId: string;
+  emailID: string;
   username: string;
   password: string;
   isVerified: boolean;

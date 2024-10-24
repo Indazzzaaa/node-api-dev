@@ -13,3 +13,6 @@ build/
 
 # Ignore environment variable files (optional, if you have them)
 .env
+
+#any personal notes
+notes/
